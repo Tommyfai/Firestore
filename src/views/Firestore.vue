@@ -13,7 +13,7 @@
 import db from "@/components/firebaseInit";
 
 export default {
-  name: "about",
+  name: "firestore",
   data() {
     return {
       models: [

@@ -12,6 +12,11 @@ export default new Router({
   routes: [
     {
       path: "/",
+      name: "default",
+      component: Firestore
+    },
+    {
+      path: "/home",
       name: "home",
       component: Home
     },
