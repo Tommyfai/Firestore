@@ -1,0 +1,6 @@
+.b {
+  border: 2px solid red;
+  > .x {
+    border: 2px solid red;
+  }
+} 

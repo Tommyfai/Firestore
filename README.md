@@ -1,2 +1,0 @@
-# Firestore
-Created with CodeSandbox
